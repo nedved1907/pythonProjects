@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../EULA2.htm'],s:['+1','extract','possess'],p:[['+1',69],['and',14],['bytes',20],['decision',68],['feature',34],['haspfeature',35],['is',48],['maintenance',68],['of',68],['priority',66],['same',59],['tags',59],['this',68],['vendorid',57]]});
